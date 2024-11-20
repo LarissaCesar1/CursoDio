@@ -1,7 +1,7 @@
 const db = [
     {
-        name: "Joana",
-        email: "joana@dio.com",
+        name: "Luan",
+        email: "luan@dio.com",
     }
 ]
 
